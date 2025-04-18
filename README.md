@@ -13,7 +13,7 @@
 - I’m looking to collaborate on **Software engineering projects**
 
 
-#### 🧑‍💻 Programming Language Stack
+### 🧑‍💻 Programming Language Stack
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
