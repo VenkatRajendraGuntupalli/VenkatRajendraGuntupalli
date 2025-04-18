@@ -21,7 +21,7 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python" width="40" height="40"/>
 </p>
 
-#### 🎨 Front End Development
+### 🎨 Front End Development
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" title="Angular" width="40" height="40"/>
@@ -32,19 +32,19 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" title="React" width="40" height="40"/>
 </p>
 
-#### 🔧 Back End Development
+### 🔧 Back End Development
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" title="Spring" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" title="RabbitMQ" width="40" height="40"/>
 </p>
 
-#### 🧠 AI / Machine Learning
+### 🧠 AI / Machine Learning
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" title="TensorFlow" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="40" height="40"/>
 </p>
 
-#### 🗄️ Database Stack
+### 🗄️ Database Stack
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" title="Cassandra" width="40" height="40"/>
@@ -53,26 +53,26 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" title="Redis" width="40" height="40"/>
 </p>
 
-#### ⚙️ DevOps & Cloud Stack
+### ⚙️ DevOps & Cloud Stack
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" title="Kubernetes" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" title="Jenkins" width="40" height="40"/>
 </p>
 
-#### 🧪 Testing Stack
+### 🧪 Testing Stack
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="Jasmine" title="Jasmine" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/junit5/junit5-icon.svg" alt="JUnit" title="JUnit" width="40" height="40"/>
 </p>
 
-#### 📁 Project Management Stack
+### 📁 Project Management Stack
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" title="GitHub" width="40" height="40"/>
 </p>
 
-#### 🧑‍💻 Editor / IDE I ♥
+### 🧑‍💻 Editor / IDE I ♥
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="Sublime Text" title="Sublime Text" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="40" height="40"/>
