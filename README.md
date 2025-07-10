@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Venkat Rajendra Guntupalli </font></h1>
-<h3 align="center"><font face="Arial"> I'm a passionate Software Engineer , working on Java , Python and Front end development for more than 4 years now. Feel free to reach out for any Freelance Projects.</font></h3>
+<h3 align="center"><font face="Arial"> I'm a passionate Software Engineer , working on Java , Python, Data science and Front end development. Feel free to reach out for any Freelance Projects.</font></h3>
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
