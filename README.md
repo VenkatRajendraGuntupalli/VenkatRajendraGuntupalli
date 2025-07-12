@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi 👋, I'm Venkat Rajendra Guntupalli </font></h1>
+<h1 align="center"><font face="Arial">Hi 👋, I'm Rajendra Guntupalli </font></h1>
 <h3 align="center"><font face="Arial"> I'm a passionate Software Engineer , working on Java , Python, Data science and Front end development. Feel free to reach out for any Freelance Projects.</font></h3>
 
 <!-- GIF -->
