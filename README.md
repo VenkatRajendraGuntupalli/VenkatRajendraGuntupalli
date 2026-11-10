@@ -85,7 +85,7 @@
 </p>
 
 - 💬 Ask me about **Software Engineering**
-- 📫 How to reach me **[guntupalliv1@udayton.edu](mailto:guntupalliv1@udayton.edu)**
+- 📫 How to reach me **[venkat.rajendra97@gmail.com](mailto:venkat.rajendra97@gmail.com)**
 - ⚡ Fun fact **I play a variety of Sports**
 
 
